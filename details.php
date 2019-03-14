@@ -4,7 +4,7 @@
       <h1>Profile</h1>
       <table border=1>
          <tr>
-		   <th>id no</th>
+		   <th>sno</th>
 		   <th>name</th>
 		   <th>password</th>
 		   <th>email</th>
