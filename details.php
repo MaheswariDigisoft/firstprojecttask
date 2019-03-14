@@ -19,7 +19,7 @@
          echo "<tr><td>".$row['sno']."</td>";
          echo "<td>".$row['name']."</td>";
          echo "<td>".$row['password']."</td>";
-         echo "<td>".$row['email']."</td>";
+        // echo "<td>".$row['email']."</td>";
 ?>
      <td>
      <a href="edit.php?id=<?php echo $row['sno'];?>">EDIT/</a>
