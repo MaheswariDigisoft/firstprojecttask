@@ -8,8 +8,9 @@
 	    <div id="number5"></div>
 	    <div id="number6"></div>
 	    <div id="number7"></div>
-	    
     <script>
+	    
+	    
         document.getElementById('number').innerHTML= Math.round(20.20);  
         document.getElementById('number1').innerHTML= Math.round(20.90);  
         document.getElementById('number2').innerHTML= Math.ceil(40.10);  
